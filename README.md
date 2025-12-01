@@ -27,7 +27,7 @@
 * **Grupo**: Equipo de Programación III 2025-2
 * **Integrantes**:
   * José Rojas Cruz – 202410494 (Responsable de investigación teórica, Pruebas y benchmarking))
-  * Mario Angel Urpay Enriquez – 209900002 (Desarrollo de la arquitectura, Documentación y demo)
+  * Mario Angel Urpay Enriquez – 202410526 (Desarrollo de la arquitectura, Documentación y demo)
   * Mijail Evguenievich Saltsin Navarro  – 202410498 (Implementación del modelo)
 
 > *Nota: Este proyecto está organizado en 3 Epics independientes con responsables específicos.*
@@ -320,10 +320,10 @@ cd cmake-build-debug
 
 | Tarea | Responsable | Rol | Entregables |
 |-------|-------------|-----|-------------|
-| Tensor (Epic 1) | Alumno 1 | Álgebra lineal | tensor.h, tests |
-| Red Neuronal (Epic 2) | Alumno 2 | Arquitectura + Entrenamiento | nn_*.h, neural_network.h |
-| Aplicación (Epic 3) | Alumno 3 | Agente + Documentación | main.cpp, ejemplos, docs |
-| Validación | Todos | Testing | test_*.cpp, benchmarks |
+| Tensor (Epic 1) | Todos       | Álgebra lineal | tensor.h, tests |
+| Red Neuronal (Epic 2) | Todos       | Arquitectura + Entrenamiento | nn_*.h, neural_network.h |
+| Aplicación (Epic 3) | Todos       | Agente + Documentación | main.cpp, ejemplos, docs |
+| Validación | Todos       | Testing | test_*.cpp, benchmarks |
 
 #### 5.2 Metodología
 
