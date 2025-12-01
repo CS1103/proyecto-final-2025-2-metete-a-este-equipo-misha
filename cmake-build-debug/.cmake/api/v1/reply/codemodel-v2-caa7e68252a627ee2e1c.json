@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e19ced2a10dabd8f66bf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PONG_AI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PONG_AI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PONG_AI-Debug-6225daa586a8094adb46.json",
+					"name" : "PONG_AI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark-Debug-c5cab4ef3b5d605c5698.json",
+					"name" : "benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coverage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coverage-Debug-5b278dc2dc9cd8448cd1.json",
+					"name" : "coverage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "performance_benchmark::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-performance_benchmark-Debug-e2f1f871370f7d87a635.json",
+					"name" : "performance_benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run_tests-Debug-999764c9f309f4e1a14d.json",
+					"name" : "run_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_agent_env::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_agent_env-Debug-8ac20d7d3bede292da38.json",
+					"name" : "test_agent_env",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_neural_network::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_neural_network-Debug-c377c2b63aefdf8159b7.json",
+					"name" : "test_neural_network",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_tensor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_tensor-Debug-746254cdfae43496dc2a.json",
+					"name" : "test_tensor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "train_pong_agent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-train_pong_agent-Debug-ca209caded57172d0dc2.json",
+					"name" : "train_pong_agent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "train_xor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-train_xor-Debug-0f89707d260187074e33.json",
+					"name" : "train_xor",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/HP/Desktop/pongAI_p3-main/cmake-build-debug",
+		"source" : "C:/Users/HP/Desktop/pongAI_p3-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
